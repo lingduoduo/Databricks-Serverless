@@ -1,3 +1,3 @@
 # Databricks-Serverless
 
-## Repo connect to Databricks
+## Repo Connect to Databricks
